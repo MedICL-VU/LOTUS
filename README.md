@@ -16,7 +16,7 @@ For **registration**, **LOTUS** mitigated the local minima introduced by FOV eff
 
 ## Installation
 
-This project is built on top of [MONAI (Medical Open Network for AI)](<MONAI_OFFICIAL_REPO_LINK>), with additional usage of MONAI Generative modules for diffusion models.
+This project is built on top of [MONAI (Medical Open Network for AI)](<https://github.com/Project-MONAI/GenerativeModels>), with additional usage of MONAI Generative modules for diffusion models.
 
 ### Core Dependencies
 
